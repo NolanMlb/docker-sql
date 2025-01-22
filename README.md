@@ -64,6 +64,8 @@ Ce fichier README explique les commandes nécessaires pour configurer et utilise
     docker exec -it mysql-container mysql -u root -p
     ```
 
+    (Ne pas oublier de copier le fichier app.sql dans le conteneur)
+
 4. **Insérer une row dans la table continent**
     ```sh
     INSERT INTO continent(id_continent, nom_continent) VALUES (6,"monNouveauContinent");
