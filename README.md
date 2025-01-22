@@ -76,6 +76,7 @@ Ce fichier README explique les commandes nécessaires pour configurer et utilise
     ```
 
 6. **On recrée le conteneur**
+
     Refaire l'étape 2 et 3.
 
 
